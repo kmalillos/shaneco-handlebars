@@ -1,4 +1,4 @@
-// import Express.js and Handlebars.js packages
+// import Express, Handlebars, and Path packages
 const express = require("express");
 const exphbs = require("express-handlebars"); 
 const path = require("path");
