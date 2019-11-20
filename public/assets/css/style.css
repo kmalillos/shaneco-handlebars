@@ -91,6 +91,31 @@ ul, li {
   transform: translate(-50%, -50%);
 }
 
+/* Page Banner */
+
+/* Hero Banner */
+
+.page-banner {
+  display: block;
+  height: 100%;
+  margin: 0px;
+  position: relative;
+  text-align: center;
+}
+
+.page-img {
+  width: 100%;
+  max-height: auto;
+  margin: auto;
+}
+
+.page-text {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* Design Ring Section */
 
 .section {
