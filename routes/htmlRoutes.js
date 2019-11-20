@@ -5,7 +5,7 @@ module.exports = function(app) {
         res.render("index");
     });
 
-    app.get("/menu", function (req, res){
+    app.get("/:menu", function (req, res){
         res.render("page");
     })
 };
